@@ -1,4 +1,4 @@
-#Uber vs. Lyft Data Visualization Project using Python
+Uber vs. Lyft Data Visualization Project using Python
 
 Description:
 The Uber vs. Lyft Data Visualization project implemented in Python focuses on analyzing and visualizing data to compare the performance and popularity of the two leading ride-sharing services, Uber and Lyft. This project aims to provide insights into the market share, pricing trends, user preferences, and overall competitiveness of these two prominent companies in the ride-hailing industry.
