@@ -1,5 +1,7 @@
 
 Uber vs. Lyft Data Visualization Project using Python
+
+
 This GitHub repository contains a data visualization project that focuses on comparing the performance and popularity of the two leading ride-sharing services, Uber and Lyft. The project is implemented in Python and aims to provide insights into market share, pricing trends, user preferences, and the overall competitiveness of these two prominent companies in the ride-hailing industry.
 
 Key Features
