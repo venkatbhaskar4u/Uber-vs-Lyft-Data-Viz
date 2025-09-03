@@ -30,6 +30,7 @@ These analyses can help businesses, city officials, and consumers better underst
 
 ## Example Outputs
 ![Price Distribution](https://github.com/user-attachments/assets/a9386527-440f-47f4-b8de-13fc6ea16aeb)
+
 _Figure: Price comparison Line graph for Uber vs Lyft_
 
 
