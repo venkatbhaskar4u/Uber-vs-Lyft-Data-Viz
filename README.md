@@ -28,6 +28,12 @@ These analyses can help businesses, city officials, and consumers better underst
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook or Python scripts to explore the visualizations and analysis.
 
+## Example Outputs
+![Price Distribution](<img width="717" height="715" alt="image" src="https://github.com/user-attachments/assets/a9386527-440f-47f4-b8de-13fc6ea16aeb" />)
+_Figure: Price comparison Line graph for Uber vs Lyft_
+
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
