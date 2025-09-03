@@ -19,10 +19,12 @@ This GitHub repository contains a data visualization project that focuses on com
 - **Time Series Analysis**: The project incorporates time series analysis to visualize and compare temporal trends in ride demand, driver availability, and service utilization for Uber and Lyft. This analysis can uncover patterns, seasonal variations, and growth trajectories for both companies.
 
 - **Interactive Visualizations**: The project leverages interactive visualization libraries in Python to enhance the user experience and facilitate deeper exploration of the data. It includes interactive plots, filters, or sliders that allow users to interact with the visualizations and gain more granular insights.
+- ## Value & Impact
+These analyses can help businesses, city officials, and consumers better understand ride-sharing trends, optimize pricing strategies, and improve urban transportation planning.
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/uber-vs-lyft-analysis.git`
+1. Clone the repository: `git clone https://github.com/venkatbhaskar4u/Uber-vs-Lyft-Data-Viz.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook or Python scripts to explore the visualizations and analysis.
 
