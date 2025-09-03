@@ -2,6 +2,11 @@
 
 This GitHub repository contains a data visualization project that focuses on comparing the performance and popularity of the two leading ride-sharing services, Uber and Lyft. The project is implemented in Python and aims to provide insights into market share, pricing trends, user preferences, and the overall competitiveness of these two prominent companies in the ride-hailing industry.
 
+## Motivation
+
+As an international student in the US without a car, I relied heavily on ride-sharing and public transportation to navigate daily life. I developed this project to help myself and others estimate which ride-sharing service—Uber or Lyft—would be more cost-effective, reliable, or convenient at different times, locations, and ride types.  
+By analyzing real trip data, I could objectively compare price, wait times, and coverage, empowering students and residents in similar situations to make smarter travel decisions and optimize their transportation budgets.
+
 ## Key Features
 
 - **Data Collection**: The project acquires relevant data from reliable sources, such as public APIs, official reports, or publicly available datasets. It includes data related to ride fares, trip duration, driver ratings, customer reviews, service availability, and market coverage for both Uber and Lyft.
